@@ -1,0 +1,27 @@
+GET http://localhost:5162
+
+###
+GET http://localhost:5162/Blogs
+
+###
+
+PUT http://localhost:5162
+
+###
+DELETE http://localhost:5162
+
+###
+
+POST http://localhost:5162
+
+###
+GET http://localhost:5162/users/1/posts/hahaha
+
+###
+GET http://localhost:5162/product/2
+
+###
+GET http://localhost:5162/report/2024
+
+###
+GET http://localhost:5162/search?q=dotnet&page=2
